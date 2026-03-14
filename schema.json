@@ -1,0 +1,311 @@
+{
+  "url": "https://docs.google.com/forms/d/e/1FAIpQLSerJeYAgusRUEzFneGCYTeYYh_sb5PbV6nftMd4gpo2wvnpZQ/viewform",
+  "scannedAt": "2026-03-13T06:56:50.218Z",
+  "totalPagesScanned": 6,
+  "questionPages": 5,
+  "hasSubmitPage": true,
+  "questionCount": 14,
+  "questions": [
+    {
+      "id": "q_1",
+      "title": "Bạn có đang sinh sống và làm việc tại TP. HCM không?",
+      "type": "radio",
+      "required": true,
+      "options": [
+        "Có",
+        "Không (Xin dừng khảo sát tại đây)",
+        "Tùy chọn 3"
+      ],
+      "page": 1
+    },
+    {
+      "id": "q_2",
+      "title": "Bạn có sử dụng TikTok không?",
+      "type": "radio",
+      "required": true,
+      "options": [
+        "Có",
+        "Không (Xin dừng khảo sát tại đây)"
+      ],
+      "page": 1
+    },
+    {
+      "id": "q_3",
+      "title": "Nền tảng TikTok Shop cung cấp các video quảng cáo/livestream mua sắm phù hợp với sở thích của tôi.",
+      "type": "radio",
+      "required": true,
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "page": 2
+    },
+    {
+      "id": "q_4",
+      "title": "Tôi cảm thấy các nhu cầu cá nhân của mình được thỏa mãn bởi các đề xuất mua sắm trên TikTok Shop",
+      "type": "radio",
+      "required": true,
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "page": 2
+    },
+    {
+      "id": "q_5",
+      "title": "Các tính năng của TikTok Shop giúp tôi dễ dàng tìm kiếm các thông tin được cá nhân hóa cho riêng mình.",
+      "type": "radio",
+      "required": true,
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "page": 2
+    },
+    {
+      "id": "q_6",
+      "title": "Việc mua sắm trên TikTok Shop có ích cho cuộc sống của tôi.",
+      "type": "radio",
+      "required": true,
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "page": 3
+    },
+    {
+      "id": "q_7",
+      "title": "Sử dụng Tik Tok Shop giúp tôi thực hiện các giao dịch mua sắm nhanh chóng hơn.",
+      "type": "radio",
+      "required": true,
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "page": 3
+    },
+    {
+      "id": "q_8",
+      "title": "Sử dụng TikTok Shop giúp tăng năng suất/hiệu quả mua sắm của tôi",
+      "type": "radio",
+      "required": true,
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "page": 3
+    },
+    {
+      "id": "q_9",
+      "title": "Sử dụng Tik Tok Shop giúp việc thực hiện các công việc mua sắm của tôi trở nên dễ dàng hơn.",
+      "type": "radio",
+      "required": true,
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "page": 3
+    },
+    {
+      "id": "q_10",
+      "title": "Sau khi xem một nội dung quảng cáo/livestream trên TikTok Shop, tôi cảm thấy hứng thú với việc mua hàng.",
+      "type": "radio",
+      "required": true,
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "page": 4
+    },
+    {
+      "id": "q_11",
+      "title": "Sau khi xem nội dung mua sắm phù hợp, tôi muốn mua sản phẩm đang được quảng cáo đó.",
+      "type": "radio",
+      "required": true,
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "page": 4
+    },
+    {
+      "id": "q_12",
+      "title": "Tôi có ý định sẽ mua các sản phẩm được để xuất trên TikTok Shop trong tương lai.",
+      "type": "radio",
+      "required": true,
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "page": 4
+    },
+    {
+      "id": "q_13",
+      "title": "Giới tính của bạn",
+      "type": "radio",
+      "required": true,
+      "options": [
+        "Nam",
+        "Nữ",
+        "Không muốn nêu cụ thể"
+      ],
+      "page": 5
+    },
+    {
+      "id": "q_14",
+      "title": "Thu nhập trung bình trong 1 tháng của bạn",
+      "type": "radio",
+      "required": true,
+      "options": [
+        "Dưới 5 triệu",
+        "Từ 5 - 10 triệu",
+        "Từ 10 - 15 triệu",
+        "Từ 15 - 20 triệu",
+        "Từ 20 - 25 triệu",
+        "Trên 25 triệu"
+      ],
+      "page": 5
+    }
+  ],
+  "pages": [
+    {
+      "page": 1,
+      "questionCount": 2,
+      "hasNext": true,
+      "hasSubmit": false
+    },
+    {
+      "page": 2,
+      "questionCount": 3,
+      "hasNext": true,
+      "hasSubmit": false
+    },
+    {
+      "page": 3,
+      "questionCount": 4,
+      "hasNext": true,
+      "hasSubmit": false
+    },
+    {
+      "page": 4,
+      "questionCount": 3,
+      "hasNext": true,
+      "hasSubmit": false
+    },
+    {
+      "page": 5,
+      "questionCount": 2,
+      "hasNext": true,
+      "hasSubmit": false
+    },
+    {
+      "page": 6,
+      "questionCount": 0,
+      "hasNext": false,
+      "hasSubmit": true
+    }
+  ],
+  "confirmedPath": [
+    {
+      "title": "Bạn có đang sinh sống và làm việc tại TP. HCM không?",
+      "option": "Có",
+      "type": "radio"
+    },
+    {
+      "title": "Bạn có sử dụng TikTok không?",
+      "option": "Có",
+      "type": "radio"
+    },
+    {
+      "title": "Nền tảng TikTok Shop cung cấp các video quảng cáo/livestream mua sắm phù hợp với sở thích của tôi.",
+      "option": "1",
+      "type": "radio"
+    },
+    {
+      "title": "Tôi cảm thấy các nhu cầu cá nhân của mình được thỏa mãn bởi các đề xuất mua sắm trên TikTok Shop",
+      "option": "1",
+      "type": "radio"
+    },
+    {
+      "title": "Các tính năng của TikTok Shop giúp tôi dễ dàng tìm kiếm các thông tin được cá nhân hóa cho riêng mình.",
+      "option": "1",
+      "type": "radio"
+    },
+    {
+      "title": "Việc mua sắm trên TikTok Shop có ích cho cuộc sống của tôi.",
+      "option": "1",
+      "type": "radio"
+    },
+    {
+      "title": "Sử dụng Tik Tok Shop giúp tôi thực hiện các giao dịch mua sắm nhanh chóng hơn.",
+      "option": "1",
+      "type": "radio"
+    },
+    {
+      "title": "Sử dụng TikTok Shop giúp tăng năng suất/hiệu quả mua sắm của tôi",
+      "option": "1",
+      "type": "radio"
+    },
+    {
+      "title": "Sử dụng Tik Tok Shop giúp việc thực hiện các công việc mua sắm của tôi trở nên dễ dàng hơn.",
+      "option": "1",
+      "type": "radio"
+    },
+    {
+      "title": "Sau khi xem một nội dung quảng cáo/livestream trên TikTok Shop, tôi cảm thấy hứng thú với việc mua hàng.",
+      "option": "1",
+      "type": "radio"
+    },
+    {
+      "title": "Sau khi xem nội dung mua sắm phù hợp, tôi muốn mua sản phẩm đang được quảng cáo đó.",
+      "option": "1",
+      "type": "radio"
+    },
+    {
+      "title": "Tôi có ý định sẽ mua các sản phẩm được để xuất trên TikTok Shop trong tương lai.",
+      "option": "1",
+      "type": "radio"
+    },
+    {
+      "title": "Giới tính của bạn",
+      "option": "Nam",
+      "type": "radio"
+    },
+    {
+      "title": "Thu nhập trung bình trong 1 tháng của bạn",
+      "option": "Dưới 5 triệu",
+      "type": "radio"
+    }
+  ],
+  "triedBadOptions": []
+}

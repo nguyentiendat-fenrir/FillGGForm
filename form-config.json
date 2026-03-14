@@ -1,0 +1,64 @@
+{
+  "form": {
+    "url": "https://docs.google.com/forms/d/e/1FAIpQLSerJeYAgusRUEzFneGCYTeYYh_sb5PbV6nftMd4gpo2wvnpZQ/viewform",
+    "submit": false
+  },
+  "browser": {
+    "headless": false,
+    "viewport": {
+      "width": 1440,
+      "height": 900
+    },
+    "locale": "vi-VN",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
+  },
+  "paths": {
+    "answersDir": "answers",
+    "logsDir": "logs",
+    "resultsFile": "results.json",
+    "successLogFile": "success.log",
+    "failedLogFile": "failed.log",
+    "schemaPath": "schema.json",
+    "excelPath": "614.xlsx",
+    "answersBatchPath": "answers-batch.json"
+  },
+  "fill": {
+    "concurrency": 5,
+    "writeResultsEvery": 25,
+    "retryOnPageClose": true,
+    "quiet": false
+  },
+  "runtime": {
+    "navTimeoutMs": 15000,
+    "actionTimeoutMs": 5000,
+    "pageReadyTimeoutMs": 5000
+  },
+  "generate": {
+    "limit": null,
+    "sampleMode": "all",
+    "fileNamePadLength": null
+  },
+  "scan": {
+    "headless": false,
+    "maxPages": 30,
+    "guardLimit": 100,
+    "popupWaitMs": 300,
+    "postActionWaitMs": 1200,
+    "waitForNetworkIdleOnStart": false,
+    "stopPatterns": [
+      "xin dừng khảo sát",
+      "dừng khảo sát",
+      "kết thúc khảo sát",
+      "không đủ điều kiện",
+      "không phù hợp",
+      "không thuộc đối tượng",
+      "dừng tại đây",
+      "khảo sát kết thúc",
+      "survey ends here",
+      "not eligible",
+      "screen out",
+      "terminate",
+      "disqualify"
+    ]
+  }
+}

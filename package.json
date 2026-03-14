@@ -1,0 +1,16 @@
+{
+  "name": "ggform-tool",
+  "version": "1.0.0",
+  "main": "scan-form.js",
+  "scripts": {
+    "scan": "node scan-form.js",
+    "generate:excel": "node generate-from-excel.js",
+    "fill": "node fill-form.js",
+    "fill:batch": "node fill-batch.js"
+  },
+  "dependencies": {
+    "@google/genai": "^1.44.0",
+    "exceljs": "^4.4.0",
+    "playwright": "^1.52.0"
+  }
+}
